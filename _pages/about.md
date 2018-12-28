@@ -6,7 +6,9 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-classes: wide 
+classes: wide
+header: 
+	image: /assets/image/wordcloud.jpg 
 ---
 
 My research interests are in the statistical design and analysis of experiments, particularly the development of new methods and criteria for design selection and assessment under linear and nonlinear models. A particular emphasis of my work is finding efficient designs when there is uncertainty in one or more aspects of the model for the response. I develop methodology that combines theory and computation to solve problems motivated by real experiments in science and industry. Application areas include engineering, chemistry and the pharmaceutical, automotive and aeronautics industries.
