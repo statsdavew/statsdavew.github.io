@@ -103,15 +103,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : *name
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Professor of Statistics in the <a href='https://www.southampton.ac.uk/s3ri'>Southampton Statistical Sciences Research Institute</a> at the <a href='http://www.southampton.ac.uk'>University of Southampton</a>."
+  location         : "Southampton, UK"
+  email            : &email "D.Woods@southampton.ac.uk"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: "mailto:davew@soton.ac.uk"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
