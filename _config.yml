@@ -130,6 +130,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "Southampton, UK"
+      icon: "fab fa-fw fa-map-marker"
+      url: "https://goo.gl/maps/qHgoCVhu35q"
 
 # Site Footer
 footer:
