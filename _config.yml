@@ -112,6 +112,9 @@ author:
   location         : "<a href='https://goo.gl/maps/qHgoCVhu35q'>Southampton, UK</a>"
   email            : &email "D.Woods@southampton.ac.uk"
   links:
+    - label: "Southampton, UK"
+      icon: "fa fa-map-marker"
+      url: "https://goo.gl/maps/qHgoCVhu35q"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:davew@soton.ac.uk"
@@ -130,9 +133,7 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-    - label: "Southampton, UK"
-      icon: "fab fa-fw fa-map-marker"
-      url: "https://goo.gl/maps/qHgoCVhu35q"
+
 
 # Site Footer
 footer:
