@@ -109,15 +109,15 @@ author:
                       <br /><br />Head of Statistics in the <a style='color: blue;' href='http://www.southampton.ac.uk/maths'>School of Mathematical Sciences</a> at the 
                       <a style='color: blue;' href='http://www.southampton.ac.uk'>University of Southampton</a>.
                       <br /><br />Turing Fellow at the <a style='color: blue;' href='https://www.turing.ac.uk'>Alan Turing Institute</a> for Data Science and Artificial Intelligence."
-  location         : "<a href='https://goo.gl/maps/qHgoCVhu35q'>Southampton, UK</a>"
-  email            : &email "D.Woods@southampton.ac.uk"
+  location         : 
+  email            : 
   links:
     - label: "Southampton, UK"
       icon: "fa fa-map-marker"
       url: "https://goo.gl/maps/qHgoCVhu35q"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:davew@soton.ac.uk"
+      url: "mailto:D.Woods@southampton.ac.uk"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
