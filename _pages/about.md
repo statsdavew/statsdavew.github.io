@@ -7,7 +7,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-classes: wide
 header: 
  image: /assets/images/wordcloud.jpg 
 ---
