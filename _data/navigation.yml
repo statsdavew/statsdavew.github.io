@@ -4,7 +4,7 @@ main:
     url: /group/
     
   - title: "Funded projects"
-    url: /funded/
+    url: /projects/
 
   - title: "Publications"
     url: /publications/
