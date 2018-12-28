@@ -1,4 +1,5 @@
 ---
+layout: single
 permalink: /
 title: "Under construction"
 excerpt: "About me"
