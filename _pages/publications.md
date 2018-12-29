@@ -14,7 +14,19 @@ classes: wide
  	{% if publication.comment %}
  	({{ publication.comment }}).
  	{% endif %}
-	{{ publication.journal }}, {{ publication.vol }}
+	{{ publication.journal }}, 
+	{% if publication.vol %}
+	{{ publication.vol }}
+	{% endif %}
+	{% if publication.editors %}
+	{{ publication.editors }}
+	{% endif %}
+	{% if publication.publisher %}
+	{{ publication.publisher }}
+	{% endif %}
+	{% if publication.location %}
+	{{ publication.location }},
+	{% endif %}
  	{% if publication.pages %} 
  	{{ publication.pages }}
  	{% endif %}  
