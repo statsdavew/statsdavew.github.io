@@ -19,10 +19,10 @@ classes: wide
 	{{ publication.vol }}
 	{% endif %}
 	{% if publication.editors %}
-	{{ publication.editors }}
+	editors: {{ publication.editors }}
 	{% endif %}
 	{% if publication.publisher %}
-	{{ publication.publisher }}
+	{{ publication.publisher }},
 	{% endif %}
 	{% if publication.location %}
 	{{ publication.location }},
