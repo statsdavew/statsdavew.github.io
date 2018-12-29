@@ -9,6 +9,7 @@ author_profile: true
 
  <ul>
 {% for publication in sorted %}
- <li> {{ publication.authors}} ({{ publication.year }})
+ <li> {{ publication.authors}} ({{ publication.year }}). {{ publication.title }}. {{ publication.journal }}, {{ publication.vol }} 
+ 	(<a href="https://doi.org/{{ publication.doi }}">doi:{{ publication.doi }}</a>).
  </li>
 {% endfor %}
