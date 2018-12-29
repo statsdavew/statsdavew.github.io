@@ -16,7 +16,7 @@ classes: wide
  	{% endif %}
 	{{ publication.journal }}, {{ publication.vol }}
  	{% if publication.pages %} 
- 	, {{ publication.pages }}
+ 	{{ publication.pages }}
  	{% endif %}  
  	(<a href="https://doi.org/{{ publication.doi }}">doi:{{ publication.doi }}</a>).
  </li>
