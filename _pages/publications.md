@@ -12,9 +12,10 @@ classes: wide
 {% for publication in sorted %}
  <li> {{ publication.authors}} ({{ publication.year }}). {{ publication.title }}
  	{% if publication.comment %}
- 	({{ publication.comment }})
+ 	({{ publication.comment }}).
+ 	{% else %} .
  	{% endif %}
- 	. {{ publication.journal }}, {{ publication.vol }},
+	{{ publication.journal }}, {{ publication.vol }},
  	{% if publication.pages %} 
  		{{ publication.pages }}
  	{% endif %}  
