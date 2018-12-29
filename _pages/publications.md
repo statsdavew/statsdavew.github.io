@@ -3,6 +3,7 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+classes: wide
 ---
 
 {% assign sorted = (site.publications | sort: 'year') | reverse %}
