@@ -31,10 +31,11 @@ classes: wide
  	{{ publication.pages }}
  	{% endif %}
  	{% if publication.doi %}  
- 	(<a href="https://doi.org/{{ publication.doi }}">doi:{{ publication.url }}</a>).
+ 	(<a href="https://doi.org/{{ publication.doi }}">doi:{{ publication.doi }}</a>).
  	{% endif %}
- 	{% if publication.url %}  
- 	(<a href="{{ publication.url }}">{{ publication.url }}</a>).
+ 	{% if publication.link %}  
+ 	(<a href="{{ publication.link }}">{{ publication.link }}</a>).
  	{% endif %}
+ 	{{ publication.content }}
  </li>
 {% endfor %}
