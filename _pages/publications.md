@@ -11,4 +11,4 @@ author_profile: true
 {% for publication in sorted %}
  <li> {{ publication.authors}} ({{ publication.year }})
  </li>
- % endfor %}
+{% endfor %}
