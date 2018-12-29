@@ -10,14 +10,13 @@ classes: wide
 
  <ul>
 {% for publication in sorted %}
- <li> {{ publication.authors}} ({{ publication.year }}). {{ publication.title }}
+ <li> {{ publication.authors}} ({{ publication.year }}). {{ publication.title }}.
  	{% if publication.comment %}
  	({{ publication.comment }}).
- 	{% else %}.
  	{% endif %}
 	{{ publication.journal }}, {{ publication.vol }}
  	{% if publication.pages %} 
- 		, {{ publication.pages }}
+ 	, {{ publication.pages }}
  	{% endif %}  
  	(<a href="https://doi.org/{{ publication.doi }}">doi:{{ publication.doi }}</a>).
  </li>
