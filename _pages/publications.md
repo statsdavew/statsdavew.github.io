@@ -13,7 +13,7 @@ classes: wide
  <li> {{ publication.authors}} ({{ publication.year }}). {{ publication.title }}
  	{% if publication.comment %}
  	({{ publication.comment }}).
- 	{% else %} .
+ 	{% else %}.
  	{% endif %}
 	{{ publication.journal }}, {{ publication.vol }}
  	{% if publication.pages %} 
