@@ -55,8 +55,9 @@ outputPubs <- function(bib) {
     cat("editors:", editors, "\n")
     cat("publisher:", bib[i]$publisher, "\n")
     cat("location:", bib[i]$address, "\n")
-    cat("doi:", "\n")
+    cat("doi:", bib[i]$doi, "\n")
     cat("comment:", "\n")
+    cat("link:", bib[i]$url, "\n")
     cat("---\n")
     sink()
   }
