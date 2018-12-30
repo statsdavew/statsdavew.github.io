@@ -11,9 +11,6 @@ classes: wide
  <ul>
 {% for publication in sorted %}
  <li> {{ publication.authors}} ({{ publication.year }}). {{ publication.title }}.
- 	{% if publication.comment %}
- 	({{ publication.comment }}).
- 	{% endif %}
 	{{ publication.journal }}, 
 	{% if publication.vol %}
 	{{ publication.vol }}
