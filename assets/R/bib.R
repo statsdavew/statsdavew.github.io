@@ -59,6 +59,7 @@ outputPubs <- function(bib) {
     cat("comment:", "\n")
     cat("link:", bib[i]$url, "\n")
     cat("---\n")
+    cat(bib[i]$note, "\n")
     sink()
   }
 }
