@@ -1,0 +1,9 @@
+---
+authors: Waite T. W. and Woods D. C. 
+year: 2015 
+title: Designs for generalized linear models with random block effects via information matrix approximations 
+journal: Biometrika 
+vol: 102 
+pages: 677--693 
+editors: 
+---
