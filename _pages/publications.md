@@ -6,6 +6,8 @@ author_profile: true
 classes: wide
 ---
 
+<h2>Publications</h2>
+
 {% assign sorted = (site.publications | sort: 'year') | reverse %}
 
  <ul>
