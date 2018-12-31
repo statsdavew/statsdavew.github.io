@@ -43,7 +43,7 @@ classes: wide
  {% endif %}
 {% endfor %}
 </ul>	
-{% endcomment%}
+{% endcomment %}
 
 <h2>Publications</h2>
 
