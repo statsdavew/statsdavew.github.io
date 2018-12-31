@@ -49,7 +49,7 @@ classes: wide
 
  <ul>
 {% for publication in sorted %}
-{% if publication.type != 'Misc' %}
+{% unless publication.type == 'Misc' %}
  <li> {{ publication.authors}} ({{ publication.year }}). {{ publication.title }}.
 	{{ publication.journal }}, 
 	{% if publication.vol %}
@@ -75,6 +75,6 @@ classes: wide
  	{% endif %}
  	{{ publication.content }}
  </li>
- {% end if %}
+ {% end unless %}
 {% endfor %}
 </ul>
