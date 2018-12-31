@@ -9,7 +9,7 @@ classes: wide
 
 {% assign sorted = (site.publications | sort: 'year') | reverse %}
 
-{% comment %}
+
 <h2>Working papers</h2>
 
 <ul>
@@ -43,7 +43,6 @@ classes: wide
  {% endif %}
 {% endfor %}
 </ul>	
-{% endcomment %}
 
 <h2>Publications</h2>
 
