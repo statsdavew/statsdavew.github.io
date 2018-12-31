@@ -35,4 +35,5 @@ classes: wide
  	{% endif %}
  	{{ publication.content }}
  </li>
+</ul>
 {% endfor %}
