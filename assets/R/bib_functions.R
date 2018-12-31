@@ -1,8 +1,5 @@
-library(bibtex)
-bib <- read.bib("publications.bib")
 
-
-outputPubs <- function(bib) {
+outputPubs <- function(bib, filepath = NULL) {
   
   nb <- length(bib)
   for(i in 1:nb) {
@@ -43,7 +40,7 @@ outputPubs <- function(bib) {
     }
 
     ## create md file
-    filename <- paste0(bib[i]$key, ".md")
+    filename <- paste0(filepath, bib[i]$key, ".md")
     sink(filename)
     cat("---\n")
     cat("authors:", authors, "\n")
@@ -57,6 +54,7 @@ outputPubs <- function(bib) {
     cat("location:", bib[i]$address, "\n")
     cat("doi:", bib[i]$doi, "\n")
     cat("link:", bib[i]$url, "\n")
+    cat("type:", bib[i]$bibtype, "\n")
     cat("---\n")
     cat(bib[i]$note, "\n")
     sink()

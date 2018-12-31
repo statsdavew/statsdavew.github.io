@@ -10,5 +10,6 @@ publisher:
 location: 
 doi: 
 link: 
+type: InProceedings 
 ---
  

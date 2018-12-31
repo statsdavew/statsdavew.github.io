@@ -10,5 +10,6 @@ publisher:
 location: 
 doi: 10.1177/1350650118794730 
 link: 
+type: Article 
 ---
  
