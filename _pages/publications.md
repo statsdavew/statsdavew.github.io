@@ -9,6 +9,8 @@ classes: wide
 
 {% assign sorted = (site.publications | sort: 'year') | reverse %}
 
+<h2>Working papers</h2>
+
 <ul>
 {% for publication in sorted %}
  {% if publication.type == "Misc" %}
@@ -45,7 +47,7 @@ classes: wide
 
  <ul>
 {% for publication in sorted %}
-{% if publication.type != "misc" %}
+{% if publication.type != "Misc" %}
  <li> {{ publication.authors}} ({{ publication.year }}). {{ publication.title }}.
 	{{ publication.journal }}, 
 	{% if publication.vol %}
