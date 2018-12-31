@@ -11,7 +11,7 @@ outputPubs <- function(bib) {
     n <- length(bib[i]$author)
     authors <- switch(n, 
                       paste(paste(bib[i]$author[1]$family, collapse = " "), paste(bib[i]$author[1]$given, collapse = " "), sep = ", "),
-                      paste(paste(bib[i]$author[1]$family, collapse = " "), paste(bib[i]$author[1]$given, collapse = " "), "and", bib[i]$author[2]$family, paste(bib[i]$author[2]$given, collapse = " "))
+                      paste(paste(bib[i]$author[1]$family, collapse = " "), paste(bib[i]$author[1]$given, collapse = " "), "and", paste(bib[i]$author[2]$family, collapse = " "), paste(bib[i]$author[2]$given, collapse = " "))
     )
     if(is.null(authors)) {
       authors <- paste(paste(bib[i]$author[1]$family, collapse = " "), paste(bib[i]$author[1]$given, collapse = " "), sep = ", ")
