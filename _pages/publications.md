@@ -22,7 +22,7 @@ classes: wide
 	{{ publication.publisher }},
 	{% endif %}
 	{% if publication.location %}
-	{{ publication.location }},
+	{{ publication.location }}
 	{% endif %}
  	{% if publication.pages %} 
  	{{ publication.pages }}
