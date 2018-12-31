@@ -8,7 +8,7 @@ pages:
 editors: 
 publisher: 
 location: 
-doi: doi:10.1177/1350650118794730 
+doi: 10.1177/1350650118794730 
 link: 
 ---
  
