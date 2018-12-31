@@ -75,6 +75,6 @@ classes: wide
  		{% endif %}
  		{{ publication.content }}
  		</li>
- 	{% end unless %}
+ 	{% endunless %}
 {% endfor %}
 </ul>
