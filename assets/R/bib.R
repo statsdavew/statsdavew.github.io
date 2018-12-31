@@ -1,5 +1,5 @@
 library(bibtex)
-bib <- read.bib("trackrecord.bib")
+bib <- read.bib("publications.bib")
 
 
 outputPubs <- function(bib) {
@@ -56,7 +56,6 @@ outputPubs <- function(bib) {
     cat("publisher:", bib[i]$publisher, "\n")
     cat("location:", bib[i]$address, "\n")
     cat("doi:", bib[i]$doi, "\n")
-    cat("comment:", "\n")
     cat("link:", bib[i]$url, "\n")
     cat("---\n")
     cat(bib[i]$note, "\n")
