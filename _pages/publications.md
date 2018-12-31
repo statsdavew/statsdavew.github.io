@@ -49,32 +49,32 @@ classes: wide
 
  <ul>
 {% for publication in sorted %}
-{% unless publication.type == 'Misc' %}
- <li> {{ publication.authors}} ({{ publication.year }}). {{ publication.title }}.
-	{{ publication.journal }}, 
-	{% if publication.vol %}
-	{{ publication.vol }}
-	{% endif %}
-	{% if publication.editors %}
-	editors: {{ publication.editors }}
-	{% endif %}
-	{% if publication.publisher %}
-	{{ publication.publisher }},
-	{% endif %}
-	{% if publication.location %}
-	{{ publication.location }}
-	{% endif %}
- 	{% if publication.pages %} 
- 	{{ publication.pages }}
- 	{% endif %}
- 	{% if publication.doi %}  
- 	(<a href="https://doi.org/{{ publication.doi }}">doi:{{ publication.doi }}</a>).
- 	{% endif %}
- 	{% if publication.link %}  
- 	(<a href="{{ publication.link }}">{{ publication.link }}</a>).
- 	{% endif %}
- 	{{ publication.content }}
- </li>
- {% end unless %}
+	{% unless publication.type == 'Misc' %}
+ 		<li> {{ publication.authors}} ({{ publication.year }}). {{ publication.title }}.
+		{{ publication.journal }}, 
+		{% if publication.vol %}
+		{{ publication.vol }}
+		{% endif %}
+		{% if publication.editors %}
+		editors: {{ publication.editors }}
+		{% endif %}
+		{% if publication.publisher %}
+		{{ publication.publisher }},
+		{% endif %}
+		{% if publication.location %}
+		{{ publication.location }}
+		{% endif %}
+ 		{% if publication.pages %} 
+ 		{{ publication.pages }}
+ 		{% endif %}
+ 		{% if publication.doi %}  
+ 		(<a href="https://doi.org/{{ publication.doi }}">doi:{{ publication.doi }}</a>).
+ 		{% endif %}
+ 		{% if publication.link %}  
+ 		(<a href="{{ publication.link }}">{{ publication.link }}</a>).
+ 		{% endif %}
+ 		{{ publication.content }}
+ 		</li>
+ 	{% end unless %}
 {% endfor %}
 </ul>
