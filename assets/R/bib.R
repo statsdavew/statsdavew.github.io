@@ -10,15 +10,15 @@ outputPubs <- function(bib) {
     ## authors
     n <- length(bib[i]$author)
     authors <- switch(n, 
-                      paste(bib[i]$author[1]$family, paste(bib[i]$author[1]$given, collapse = " "), sep = ", "),
-                      paste(bib[i]$author[1]$family, paste(bib[i]$author[1]$given, collapse = " "), "and", bib[i]$author[2]$family, paste(bib[i]$author[2]$given, collapse = " "))
+                      paste(paste(bib[i]$author[1]$family, collapse = " "), paste(bib[i]$author[1]$given, collapse = " "), sep = ", "),
+                      paste(paste(bib[i]$author[1]$family, collapse = " "), paste(bib[i]$author[1]$given, collapse = " "), "and", bib[i]$author[2]$family, paste(bib[i]$author[2]$given, collapse = " "))
     )
     if(is.null(authors)) {
-      authors <- paste(bib[i]$author[1]$family, paste(bib[i]$author[1]$given, collapse = " "), sep = ", ")
+      authors <- paste(paste(bib[i]$author[1]$family, collapse = " "), paste(bib[i]$author[1]$given, collapse = " "), sep = ", ")
       for(j in 2:(n-1)) {
-        authors <- paste(authors, bib[i]$author[j]$family, paste(bib[i]$author[j]$given, collapse = " "), sep = ", ")
+        authors <- paste(authors, paste(bib[i]$author[j]$family, collapse = " "), paste(bib[i]$author[j]$given, collapse = " "), sep = ", ")
       }
-      authors <- paste(authors, " and ", bib[i]$author[n]$family, ", ", paste(bib[i]$author[n]$given, collapse = " "), sep = "")
+      authors <- paste(authors, " and ", paste(bib[i]$author[n]$family, collapse = " "), ", ", paste(bib[i]$author[n]$given, collapse = " "), sep = "")
     }
     
     ## journal
@@ -31,15 +31,15 @@ outputPubs <- function(bib) {
     ## editors
     n <- length(bib[i]$editor)
     editors <- switch(n, 
-                      paste(bib[i]$editor[1]$family, paste(bib[i]$editor[1]$given, collapse = " "), sep = ", "),
-                      paste(bib[i]$editor[1]$family, paste(bib[i]$editor[1]$given, collapse = " "), "and", bib[i]$editor[2]$family, paste(bib[i]$editor[2]$given, collapse = " "))
+                      paste(paste(bib[i]$editor[1]$family, collapse = " "), paste(bib[i]$editor[1]$given, collapse = " "), sep = ", "),
+                      paste(paste(bib[i]$editor[1]$family, collapse = " "), paste(bib[i]$editor[1]$given, collapse = " "), "and", bib[i]$editor[2]$family, paste(bib[i]$editor[2]$given, collapse = " "))
     )
     if(n > 2) {
-      editors <- paste(bib[i]$editor[1]$family, paste(bib[i]$editor[1]$given, collapse = " "), sep = ", ")
+      editors <- paste(paste(bib[i]$editor[1]$family, collapse = " "), paste(bib[i]$editor[1]$given, collapse = " "), sep = ", ")
       for(j in 2:(n-1)) {
-        editors <- paste(editors, bib[i]$editor[j]$family, paste(bib[i]$editor[j]$given, collapse = " "), sep = ", ")
+        editors <- paste(editors, paste(bib[i]$editor[j]$family, collapse = " "), paste(bib[i]$editor[j]$given, collapse = " "), sep = ", ")
       }
-      editors <- paste(editors, " and ", bib[i]$editor[n]$family, ", ", paste(bib[i]$editor[n]$given, collapse = " "), sep = "")
+      editors <- paste(editors, " and ", paste(bib[i]$editor[n]$family, collapse = " "), ", ", paste(bib[i]$editor[n]$given, collapse = " "), sep = "")
     }
 
     ## create md file
