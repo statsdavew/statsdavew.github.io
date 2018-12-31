@@ -16,7 +16,7 @@ classes: wide
 {% for publication in sorted %}
  {% if publication.type == "Misc" %}
  <li> {{ publication.authors}} ({{ publication.year }}). {{ publication.title }}.
-	{{ publication.journal }}, 
+	{{ publication.journal }} 
 	{% if publication.vol %}
 	{{ publication.vol }}
 	{% endif %}
