@@ -8,7 +8,8 @@ redirect_from:
   - /publications.html
 classes: wide
 header: 
- image: /assets/images/wordcloud.jpg 
+ image: /assets/images/wordcloud.jpg
+ image_description: "Word cloud from my Fellowship application" 
 ---
 
 
@@ -77,7 +78,7 @@ header:
  		{% if publication.link %}  
  		(<a href="{{ publication.link }}">{{ publication.link }}</a>).
  		{% endif %}
- 		{{ publication.content }}
+ 		*{{ publication.content }}*
  		</li>
  	{% endunless %}
 {% endfor %}
