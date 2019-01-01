@@ -8,7 +8,8 @@ redirect_from:
   - /teaching/
   - /teaching.html
 header: 
- image: /assets/images/wordcloud.jpg 
+ image: /assets/images/wordcloud.jpg
+ image_description: "Word cloud from my Fellowship application"  
 ---
 
 ## Teaching

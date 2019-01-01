@@ -10,7 +10,8 @@ redirect_from:
   - /index.html
 classes: wide
 header: 
- image: /assets/images/wordcloud.jpg 
+ image: /assets/images/wordcloud.jpg
+ image_description: "Word cloud from my Fellowship application" 
 ---
 
 ## Introduction

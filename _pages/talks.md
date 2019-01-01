@@ -8,7 +8,8 @@ redirect_from:
   - /talks.html
 classes: wide
 header: 
- image: /assets/images/wordcloud.jpg 
+ image: /assets/images/wordcloud.jpg
+ image_description: "Word cloud from my Fellowship application"  
 ---
 
 ## Invited presentations and seminars (since 2015)
