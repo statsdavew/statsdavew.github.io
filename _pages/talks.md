@@ -3,9 +3,10 @@ layout: single
 title: "Talks"
 permalink: /talks/
 author_profile: true
+classes: wide
 ---
 
-##Invited presentations and seminars (since 2015)
+## Invited presentations and seminars (since 2015)
 
 - 4 September 2018: Designing industrial experiments with functional independent variables with pharmaceutical applications, Royal Statistical Society Annual Meeting, Cardiff, UK.
 - 30 July 2018: Design of experiments for the calibration of computational models. Joint Statistical Meetings, Vancouver, Canada.
