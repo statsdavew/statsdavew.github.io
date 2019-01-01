@@ -12,4 +12,4 @@ doi: 10.1080/00401706.2013.775900
 link: 
 type: Article 
 ---
-Awarded 2015 Youden Prize for best expository paper in the 2014 volume of Technometrics 
+Awarded 2015 Youden Prize for best expository paper in the 2014 volume of Technometrics. 
