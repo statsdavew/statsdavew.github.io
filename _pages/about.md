@@ -16,7 +16,7 @@ My research interests are in the statistical design and analysis of experiments,
 
 From 2012-2017, I held a 5-year [EPSRC Fellowship](http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/J018317/1) to conduct research into design of experiments for the complex nonparametric and mechanistic models required for modern scientific and industrial problems.
 
-I have been an investigator on research grants and contracts totalling more than &pound;7 million and have extensive research links with industry and government, including [GlaxoSmithKline](https://www.gsk.com) and [Dstl](https://www.gov.uk/government/organisations/defence-science-and-technology-laboratory). I am an Associate Editor for [Technometrics](https://amstat.tandfonline.com/loi/utch20) and the [SIAM/ASA Journal of Uncertainty Quantification](https://www.siam.org/Publications/Journals/SIAM-ASA-Journal-on-Uncertainty-Quantification-JUQ), and a member of the [EPSRC Peer Review College](https://epsrc.ukri.org/funding/assessmentprocess/college/).
+I have been an investigator on research grants and contracts totalling more than &pound;12 million and have extensive research links with industry and government, including [GlaxoSmithKline](https://www.gsk.com) and [Dstl](https://www.gov.uk/government/organisations/defence-science-and-technology-laboratory). I am an Associate Editor for [Technometrics](https://amstat.tandfonline.com/loi/utch20) and the [SIAM/ASA Journal of Uncertainty Quantification](https://www.siam.org/Publications/Journals/SIAM-ASA-Journal-on-Uncertainty-Quantification-JUQ), and a member of the [EPSRC Peer Review College](https://epsrc.ukri.org/funding/assessmentprocess/college/).
 
 
 
