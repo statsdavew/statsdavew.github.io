@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /
-title: "Dave Woods"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
