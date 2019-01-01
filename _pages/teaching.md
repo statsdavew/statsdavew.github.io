@@ -19,7 +19,7 @@ In 2018/19, I am teaching
 - MATH3014 Design and Analysis of Experiments (3rd year BSc)
 - MATH6157 Applied Statistical Modelling (MSc and iPhD)
 
-Course materials for enrolled students can be found on Blackboard
+Course materials for enrolled students can be found on [Blackboard](https://blackboard.soton.ac.uk).
 
 I am also a member of the Executive Committee of the Academy for [PhD Training in Statistics (APTS)](http://www.apts.ac.uk/). In 2019 I will teach
 
