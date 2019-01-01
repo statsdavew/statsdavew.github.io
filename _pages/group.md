@@ -18,7 +18,7 @@ classes: wide
 - Mia Tackney (Sequential design of experiments with covariates)
 - [Damianos Michaelides](https://www.linkedin.com/in/damianos-michaelides-384a60135/?originalSubdomain=uk) (Bayesian design of experiments for functional inputs)
 
-## Former postdocs and PhD students
+## Former group members
 
 - [Tim Waterhouse](https://www.linkedin.com/in/timothy-waterhouse-b3604012/) (postdoc, now Eli Lilly, USA)
 - [Peter van de Ven](http://www.emgo.nl/team/1137/petervan%20deven/personal-information/) (postdoc, now VU University Medical Centre, Netherlands)
