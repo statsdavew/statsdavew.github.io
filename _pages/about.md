@@ -1,12 +1,13 @@
 ---
 layout: single
 permalink: /
-title: "Under construction"
+title: "Dave Woods"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+  - /index.html
 classes: wide
 header: 
  image: /assets/images/wordcloud.jpg 

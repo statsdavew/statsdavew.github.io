@@ -4,6 +4,9 @@ title: "Funded projects"
 permalink: /projects/
 author_profile: true
 classes: wide
+redirect_from: 
+  - /projects/
+  - /projects.html
 ---
 
 ## Current projects

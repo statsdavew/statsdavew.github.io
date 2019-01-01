@@ -4,6 +4,9 @@ title: "Research group"
 permalink: /group/
 author_profile: true
 classes: wide
+redirect_from: 
+  - /group/
+  - /group.html
 ---
 
 ## Postdoctoral researchers

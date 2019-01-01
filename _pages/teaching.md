@@ -6,6 +6,8 @@ author_profile: true
 classes: wide
 ---
 
+## Teaching
+
 In 2018/19, I am teaching
 
 - MATH3014 Design and Analysis of Experiments (3rd year BSc)
