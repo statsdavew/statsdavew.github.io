@@ -78,7 +78,7 @@ header:
  		{% if publication.link %}  
  		(<a href="{{ publication.link }}">{{ publication.link }}</a>).
  		{% endif %}
- 		*{{ publication.content }}*
+ 		<i>{{ publication.content }}</i>
  		</li>
  	{% endunless %}
 {% endfor %}
