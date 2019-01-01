@@ -7,6 +7,8 @@ classes: wide
 redirect_from: 
   - /projects/
   - /projects.html
+header: 
+ image: /assets/images/wordcloud.jpg 
 ---
 
 ## Current projects

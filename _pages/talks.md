@@ -7,6 +7,8 @@ redirect_from:
   - /talks/
   - /talks.html
 classes: wide
+header: 
+ image: /assets/images/wordcloud.jpg 
 ---
 
 ## Invited presentations and seminars (since 2015)

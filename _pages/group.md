@@ -7,6 +7,8 @@ classes: wide
 redirect_from: 
   - /group/
   - /group.html
+header: 
+ image: /assets/images/wordcloud.jpg 
 ---
 
 ## Postdoctoral researchers

@@ -4,6 +4,11 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 classes: wide
+redirect_from: 
+  - /teaching/
+  - /teaching.html
+header: 
+ image: /assets/images/wordcloud.jpg 
 ---
 
 ## Teaching

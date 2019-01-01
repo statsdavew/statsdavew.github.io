@@ -3,7 +3,12 @@ layout: single
 title: Publications
 permalink: /publications/
 author_profile: true
+redirect_from: 
+  - /publications/
+  - /publications.html
 classes: wide
+header: 
+ image: /assets/images/wordcloud.jpg 
 ---
 
 
