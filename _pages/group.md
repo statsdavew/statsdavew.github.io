@@ -35,7 +35,7 @@ header:
 - [Andrew Rose](https://www.linkedin.com/in/andrew-rose-93a936a8/) (PhD, now Lubrizol, UK)
 - [Chris Marley](https://www.linkedin.com/in/chris-marley-35207ba7/) (PhD)
 - [Sarah Hewitt](https://www.linkedin.com/in/sbchewitt/) (PhD, now IBM Hursley, UK)
-- [Emily Matthews](https://www.southampton.ac.uk/maths/about/staff/esr1g08.page) (PhD, now University of Southampton)
+- [Emily Matthews](https://www.southampton.ac.uk/maths/about/staff/esr1g08.page) (PhD, now University of Southampton, UK)
 - [Kieran Martin](https://www.linkedin.com/in/kieran-martin-2b298742/) (PhD, now Roche)
 - [Phil Adler](http://dler.me.uk) (PhD, now Python developer)
 - [Yiolanda Englezou](http://www.kios.ucy.ac.cy/index.php/people/research-personnel.html?id=494) (PhD, now University of Cyprus)
