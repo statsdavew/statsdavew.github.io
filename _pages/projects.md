@@ -20,8 +20,8 @@ header:
 - Nov 2017 - Nov 2020 [US DTRA](http://www.dtra.mil): Crystalcast Toolset – empowering decision making from uncertain disease forecasts (co-investigator and academic lead; &#36;3,400,000)
 
 ## Previous major projects
-- Oct 2012 - Sep 2017 [EPSRC](https://epsrc.ukri.org) Fellowship: [Statistical design of experiments for complex nonparametric and mechanistic models](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/J018317/1) (principal investigator; &#163;390,713).
 - Oct 2013 - Sep 2015 [EPSRC](https://epsrc.ukri.org): [Closed loop optimisation for sustainable chemical manufacture](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/L003309/1) (co-investigator; &#163;973,523)
+- Oct 2012 - Sep 2017 [EPSRC](https://epsrc.ukri.org) Fellowship: [Statistical design of experiments for complex nonparametric and mechanistic models](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/J018317/1) (principal investigator; &#163;390,713).
 - Jan 2012 - Dec 2014 [GlaxoSmithKline](https://www.gsk.com): Efficient and effective experimental strategies to develop process understanding and control (principal investigator; &#163;195,187).
 - Jan 2012 - Dec 2014 [Australian Research Council](https://www.arc.gov.au): Innovating optimal experimental design through Bayesian statistics (co-investigator; &#36;270,000 Australian)
 - Jul 2008 - Jul 2012 [US DTRA](http://www.dtra.mil): Quantification of uncertainty in dispersion models via computer experiments (principal investigator; &#36;963,936 US).
