@@ -3,13 +3,13 @@ layout: single
 title: Publications
 permalink: /publications/
 author_profile: true
-redirect_from: 
+redirect_from:
   - /publications/
   - /publications.html
 classes: wide
-header: 
+header:
  image: /assets/images/wordcloud.jpg
- image_description: "Word cloud from my Fellowship application" 
+ image_description: "Word cloud from my Fellowship application"
 ---
 
 
@@ -22,7 +22,7 @@ header:
 {% for publication in sorted %}
  {% if publication.type == "Misc" %}
  <li> {{ publication.authors}} ({{ publication.year }}). {{ publication.title }}.
-	{{ publication.journal }} 
+	{{ publication.journal }}
 	{% if publication.vol %}
 	{{ publication.vol }}
 	{% endif %}
@@ -35,7 +35,7 @@ header:
 	{% if publication.location %}
 	{{ publication.location }}
 	{% endif %}
- 	{% if publication.pages %} 
+ 	{% if publication.pages %}
  	{{ publication.pages }}
  	{% endif %}
  	{% if publication.doi %}  
@@ -50,13 +50,13 @@ header:
 {% endfor %}
 </ul>	
 
-<h2>Journal papers</h2>
+<h2>Publications</h2>
 
  <ul>
 {% for publication in sorted %}
 	{% unless publication.type == 'Misc' %}
  		<li> {{ publication.authors}} ({{ publication.year }}). {{ publication.title }}.
-		{{ publication.journal }}, 
+		{{ publication.journal }},
 		{% if publication.vol %}
 		{{ publication.vol }}
 		{% endif %}
@@ -69,7 +69,7 @@ header:
 		{% if publication.location %}
 		{{ publication.location }}
 		{% endif %}
- 		{% if publication.pages %} 
+ 		{% if publication.pages %}
  		{{ publication.pages }}
  		{% endif %}
  		{% if publication.doi %}  
