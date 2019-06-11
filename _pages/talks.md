@@ -3,17 +3,19 @@ layout: single
 title: "Talks"
 permalink: /talks/
 author_profile: true
-redirect_from: 
+redirect_from:
   - /talks/
   - /talks.html
 classes: wide
-header: 
+header:
  image: /assets/images/wordcloud.jpg
  image_description: "Word cloud from my Fellowship application"  
 ---
 
 ## Invited presentations and seminars (since 2015)
-
+- 21 May 2019: Design of experiments for the calibration of computational models. International Conference on the Design of Experiments, Memphis, USA.
+- 16 May 2019: Design of experiments for the calibration of computational models. Statistical Perspectives on Uncertainty Quantification, Chapel Hill, USA.
+- 11 May 2019: Designing industrial experiments with functional independent variables with pharmaceutical applications, WuFest, Atlanta, USA.
 - 4 September 2018: Designing industrial experiments with functional independent variables with pharmaceutical applications, Royal Statistical Society Annual Meeting, Cardiff, UK.
 - 30 July 2018: Design of experiments for the calibration of computational models. Joint Statistical Meetings, Vancouver, Canada.
 - 15 June 2018: Design of computational and physical experiments for uncertainty quantification. Isaac Newton Institute for Mathematical Sciences, Cambridge, UK.
