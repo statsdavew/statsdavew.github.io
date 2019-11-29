@@ -17,7 +17,7 @@ header:
 - [Sam Jackson](https://www.southampton.ac.uk/maths/about/staff/sej1a18.page) (Emulation and calibration of ensembles and chains of computer models)
 - [Emily Matthews](https://www.southampton.ac.uk/maths/about/staff/esr1g08.page) (Bayesian design of experiments applied to chemical manufacturing)
 - [Olga Egorova](https://www.linkedin.com/in/olga-egorova-1123554b/?originalSubdomain=uk) (Sequential design of computer experiments for active learning in crystallography)
-- [Daria Semochkina] (https://www.southampton.ac.uk/engineering/about/staff/ds1c18.page) (Optimisation of complex computer models)
+- [Daria Semochkina](https://www.southampton.ac.uk/engineering/about/staff/ds1c18.page) (Optimisation of complex computer models)
 
 ## PhD students
 
