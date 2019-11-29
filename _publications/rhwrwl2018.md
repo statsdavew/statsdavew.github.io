@@ -3,8 +3,8 @@ authors: Ramkumar, P., Harvey, T. J., Wood, R. J. K., Rose, A. D., Woods, D. C. 
 year: 2018 
 title: Factorial study of diesel oil contamination effects on steel and ceramic sliding contacts 
 journal: Journal of Engineering Tribology 
-vol: in press 
-pages: 
+vol: 233  
+pages: 726-740
 editors: 
 publisher: 
 location: 
