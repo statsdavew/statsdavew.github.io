@@ -13,6 +13,9 @@ header:
 ---
 
 ## Invited presentations and seminars (since 2015)
+- 18 October 2019: Statistical learning through designed experiments. Alan Turing Institute Workshop on Optimization & Machine Learning, Southampton, UK.
+- 9 July 2019: Statistical learning through designed experiments. Machine Learning and AI in (Bio)Chemical Engineering, Cambridge, UK.
+- 25 June 2019: Design of experiments with functional independent variables. mODa 12, Smolenice, Slovakia. 
 - 21 May 2019: Design of experiments for the calibration of computational models. International Conference on the Design of Experiments, Memphis, USA.
 - 16 May 2019: Design of experiments for the calibration of computational models. Statistical Perspectives on Uncertainty Quantification, Chapel Hill, USA.
 - 11 May 2019: Designing industrial experiments with functional independent variables with pharmaceutical applications, WuFest, Atlanta, USA.
