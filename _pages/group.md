@@ -17,12 +17,13 @@ header:
 - [Sam Jackson](https://www.southampton.ac.uk/maths/about/staff/sej1a18.page) (Emulation and calibration of ensembles and chains of computer models)
 - [Emily Matthews](https://www.southampton.ac.uk/maths/about/staff/esr1g08.page) (Bayesian design of experiments applied to chemical manufacturing)
 - [Olga Egorova](https://www.linkedin.com/in/olga-egorova-1123554b/?originalSubdomain=uk) (Sequential design of computer experiments for active learning in crystallography)
+- [Daria Semochkina] (https://www.southampton.ac.uk/engineering/about/staff/ds1c18.page) (Optimisation of complex computer models)
 
 ## PhD students
 
-- [Stephen Gow](https://cmg.soton.ac.uk/people/sg16g11/) (Uncertainty propagation through chains of computer models)
 - Mia Tackney (Sequential design of experiments with covariates)
 - [Damianos Michaelides](https://www.linkedin.com/in/damianos-michaelides-384a60135/?originalSubdomain=uk) (Bayesian design of experiments for functional inputs)
+- Theodora Nearchou (Multi-level computer experiments and likelihood approximations)
 
 ## Former group members
 
@@ -39,3 +40,4 @@ header:
 - [Kieran Martin](https://www.linkedin.com/in/kieran-martin-2b298742/) (PhD, now Roche)
 - [Phil Adler](http://dler.me.uk) (PhD, now Python developer)
 - [Yiolanda Englezou](http://www.kios.ucy.ac.cy/index.php/people/research-personnel.html?id=494) (PhD, now University of Cyprus)
+- [Stephen Gow](https://cmg.soton.ac.uk/people/sg16g11/) (PhD)
