@@ -12,7 +12,11 @@ header:
  image_description: "Word cloud from my Fellowship application"  
 ---
 
-## Invited presentations and seminars (since 2015)
+## Invited presentations and seminars (since 2017)
+- 20 December 2021: Design of experiments with functional independent variables. CMStats, London, UK and online.
+- 5 March 2021: Design of experiments with functional independent variables. SIAM Computational Science and Engineering, online.  
+- 20 February 2020: Statistical learning through designed experiments. RSS Highlands Local Group, Aberdeen, UK.
+- 16 December 2019: Bayesian optimal design of experiments motivated by challenges from science and technology. CMStats, London, UK.
 - 18 October 2019: Statistical learning through designed experiments. Alan Turing Institute Workshop on Optimization & Machine Learning, Southampton, UK.
 - 9 July 2019: Statistical learning through designed experiments. Machine Learning and AI in (Bio)Chemical Engineering, Cambridge, UK.
 - 25 June 2019: Design of experiments with functional independent variables. mODa 12, Smolenice, Slovakia. 
@@ -37,6 +41,7 @@ header:
 - 18 May 2017: Closed-loop automatic experimentation for Bayesian optimisation. Spring Research Conference, Rutgers University, New Brunswick, USA.
 - 14 March 2017: Bayesian optimal design for physical models derived from ordinary differential equations. Workshop on Optimal Experimental Design and Inverse Problems, Alan Turing Institute, London, UK.
 - 3 March 2017: Challenges in computing Bayesian designs for complex models. SIAM Computational Science and Engineering, Atlanta, USA.
+<!--
 - 17 December 2016: Closed-loop automatic experimentation for Bayesian optimisation. Conference on Experimental Design and Analysis, Taipei, Tawian.
 - 12 September 2016: Bayesian design of experiments via Gaussian process emulation (with application to discrete responses). ENBIS, Sheffield, UK.
 - 1 August 2016: Bayesian optimal design for physical models derived from ordinary differential equations. Joint Statistical Meetings, Chicago, USA.
@@ -48,3 +53,4 @@ header:
 - 14 May 2015: Bayesian design of experiments for Gaussian process regression. Research seminar, University of Glasgow, UK.
 - 26 February 2015: Bayesian design of experiments via Gaussian process emulation. Research seminar, University of Exeter, UK.
 - 12 February 2015: Bayesian design of experiments via Gaussian process emulation. Research seminar, University College Dublin, Ireland
+-->

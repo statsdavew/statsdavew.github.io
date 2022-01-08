@@ -21,8 +21,8 @@ In 2021/22, I am teaching
 
 Course materials for enrolled students can be found on [Blackboard](https://blackboard.soton.ac.uk).
 
-I am also a member of the Executive Committee of the Academy for [PhD Training in Statistics (APTS)](http://www.apts.ac.uk/). In 2021 I will teach
+I am also a member of the Executive Committee of the Academy for [PhD Training in Statistics (APTS)](http://www.apts.ac.uk/). In 2022 I will teach
 
-- APTS Design of Experiments (13-17 Sept 2021): materials for the course can be found [here](https://statsdavew.github.io/apts.doe/).
+- APTS Design of Experiments (15 - 19 August, Glasgow): materials for the course from 2020-21 can be found [here](https://statsdavew.github.io/apts.doe/).
 
 
