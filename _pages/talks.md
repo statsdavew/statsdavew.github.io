@@ -41,6 +41,7 @@ header:
 - 18 May 2017: Closed-loop automatic experimentation for Bayesian optimisation. Spring Research Conference, Rutgers University, New Brunswick, USA.
 - 14 March 2017: Bayesian optimal design for physical models derived from ordinary differential equations. Workshop on Optimal Experimental Design and Inverse Problems, Alan Turing Institute, London, UK.
 - 3 March 2017: Challenges in computing Bayesian designs for complex models. SIAM Computational Science and Engineering, Atlanta, USA.
+
 <!--
 - 17 December 2016: Closed-loop automatic experimentation for Bayesian optimisation. Conference on Experimental Design and Analysis, Taipei, Tawian.
 - 12 September 2016: Bayesian design of experiments via Gaussian process emulation (with application to discrete responses). ENBIS, Sheffield, UK.
