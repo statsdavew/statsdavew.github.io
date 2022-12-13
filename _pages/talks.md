@@ -13,6 +13,7 @@ header:
 ---
 
 ## Invited presentations and seminars (since 2017)
+- 20 June 2022: Approximate Laplace importance sampling for Bayesian design for nonlinear models. Richard Boys Memorial Workshop, Newcastle, UK.
 - 20 December 2021: Design of experiments with functional independent variables. CMStats, London, UK and online.
 - 5 March 2021: Design of experiments with functional independent variables. SIAM Computational Science and Engineering, online.  
 - 20 February 2020: Statistical learning through designed experiments. RSS Highlands Local Group, Aberdeen, UK.
