@@ -41,4 +41,4 @@ header:
 - [Stephen Gow](https://www.southampton.ac.uk/chemistry/about/staff/srg1f20.page) (PhD, now KTP Associate)
 - [Sam Jackson](https://www.southampton.ac.uk/maths/about/staff/sej1a18.page) (Postdoc, now Durham University, UK)
 - [Olga Egorova](https://www.linkedin.com/in/olga-egorova-1123554b/?originalSubdomain=uk) (Postdoc, now KCL, UK)
-- Susana Conde (Postdoc, now Universitat de Barcelona)
+- Susana Conde (Postdoc, now Hospital del Mar Medical Research Institute, Barcelona)
