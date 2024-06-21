@@ -18,7 +18,7 @@ header:
 
 ## PhD students
 
-- Ziyan Wang (Bayesian design of experiments in the pharmaceutical industry)
+- Ziyan Wang (Sequential clinical trials)
 
 ## Former group members
 
