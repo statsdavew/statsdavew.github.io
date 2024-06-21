@@ -17,7 +17,7 @@ header:
 In 2023/24, I am teaching
 
 - MATH6173 Statistical Computing (MSc)
-- MATH3014/6027 Design of Experiments (BSc and MSc)
+- [MATH3014/6027 Design of Experiments](https://statsdavew.github.io/math3014-6027-notes/) (BSc and MSc)
 
 Course materials for enrolled students can be found on [Blackboard](https://blackboard.soton.ac.uk).
 
