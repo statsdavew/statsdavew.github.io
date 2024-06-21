@@ -18,8 +18,6 @@ header:
 
 ## PhD students
 
-- [Damianos Michaelides](https://www.linkedin.com/in/damianos-michaelides-384a60135/?originalSubdomain=uk) (Bayesian design of experiments for functional inputs)
-- Theodora Nearchou (Multi-level computer experiments and likelihood approximations)
 - Ziyan Wang (Bayesian design of experiments in the pharmaceutical industry)
 
 ## Former group members
@@ -36,9 +34,12 @@ header:
 - [Maria Adamou](https://www.linkedin.com/in/maria-adamou-88363982/?originalSubdomain=uk) (Postdoc and PhD, now Data Scientist at IRi)
 - Emily Matthews (Postdoc and PhD)
 - [Phil Adler](http://dler.me.uk) (PhD, now Python developer)
+- [Ketil Tvermosegaard](https://www.linkedin.com/in/kbtvermosegaard/) (PhD, now Novo Nordisk)
 - [Yiolanda Englezou](http://www.kios.ucy.ac.cy/index.php/people/research-personnel.html?id=494) (PhD, now University of Cyprus)
 - [Mia Tackney](https://www.mrc-bsu.cam.ac.uk/people/in-alphabetical-order/t-to-z/mia-tackney/) (PhD, now MRC Biostatistics Unit, Cambridge)
 - [Stephen Gow](https://www.southampton.ac.uk/chemistry/about/staff/srg1f20.page) (PhD, now KTP Associate)
 - [Sam Jackson](https://www.southampton.ac.uk/maths/about/staff/sej1a18.page) (Postdoc, now Durham University, UK)
 - [Olga Egorova](https://www.linkedin.com/in/olga-egorova-1123554b/?originalSubdomain=uk) (Postdoc, now KCL, UK)
 - Susana Conde (Postdoc, now Hospital del Mar Medical Research Institute, Barcelona)
+- [Damianos Michaelides](https://www.linkedin.com/in/damianos-michaelides-384a60135/?originalSubdomain=uk) (PhD, now GlaxoSmithKline)
+- Theodora Nearchou (PhD, now Southampton Clinical Trials Unit)
