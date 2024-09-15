@@ -23,7 +23,7 @@ header:
 ## Former group members
 
 - Theodora Nearchou (PhD, now Southampton Clinical Trials Unit)
-- [Damianos Michaelides](https://www.linkedin.com/in/damianos-michaelides-384a60135/?originalSubdomain=uk) (PhD, now GlaxoSmithKline)
+- [Damianos Michaelides](https://www.linkedin.com/in/damianos-michaelides-384a60135/?originalSubdomain=uk) (PhD, now Cyprus Institute of Neurology and Genetics)
 - Susana Conde (Postdoc, now Hospital del Mar Medical Research Institute, Barcelona)
 - [Olga Egorova](https://www.linkedin.com/in/olga-egorova-1123554b/?originalSubdomain=uk) (Postdoc, now KCL)
 - [Sam Jackson](https://www.southampton.ac.uk/maths/about/staff/sej1a18.page) (Postdoc, now Durham University)
