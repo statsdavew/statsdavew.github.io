@@ -14,10 +14,10 @@ header:
 
 ## Teaching
 
-In 2023/24, I am teaching
+In 2025/26, I am teaching
 
-- MATH6173 Statistical Computing (MSc)
-- [MATH3014/6027 Design of Experiments](https://statsdavew.github.io/math3014-6027-notes/) (BSc and MSc)
+- MATH6192 Computationally Intensive Statistical Methods (MSc)
+- MATH6168 Machine Learning (MSc)
 
 Course materials for enrolled students can be found on [Blackboard](https://blackboard.soton.ac.uk).
 
