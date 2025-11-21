@@ -2,14 +2,14 @@
 authors: Zhang, J., Semochkina, D., Sugisawa, N., Woods, D. C. and Lapkin, A. A. 
 year: 2024 
 title: Multi-objective reaction optimization under uncertainties using expected quantile improvement
-journal: ChemRxiv
-vol: 
-pages: 
+journal: Computers and Chemical Engineering
+vol: 194
+pages: 108983
 editors: 
 publisher: 
 location: 
-doi: 10.26434/chemrxiv-2024-c1xqv
+doi: 10.1016/j.compchemeng.2024.108983
 link:  
-type: Misc
+type: Article
 ---
  

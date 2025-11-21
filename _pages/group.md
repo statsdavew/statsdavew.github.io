@@ -12,26 +12,29 @@ header:
  image_description: "Word cloud from my Fellowship application"  
 ---
 
+<!-->
 ## Postdoctoral researchers
 
-- [Daria Semochkina](https://www.southampton.ac.uk/engineering/about/staff/ds1c18.page) (Optimisation of complex computer models)
+
 
 ## PhD students
+-->
 
-- Ziyan Wang (Sequential clinical trials)
 
 ## Former group members
 
-- Theodora Nearchou (PhD, now Southampton Clinical Trials Unit)
+- [Ziyan Wang](https://www.linkedin.com/in/ziyan-wang-2504131b0/?originalSubdomain=uk) (PhD, now Royal Marsden)
+- [Daria Semochkina](https://www.linkedin.com/in/daria-semochkina-46b76b7a/?originalSubdomain=ie) (Postdoc)
+- [Theodora Nearchou](https://www.linkedin.com/in/theodora-nearchou-182120237/?originalSubdomain=cy) (PhD, now University of Cypruss)
 - [Damianos Michaelides](https://www.linkedin.com/in/damianos-michaelides-384a60135/?originalSubdomain=uk) (PhD, now Cyprus Institute of Neurology and Genetics)
 - Susana Conde (Postdoc, now Hospital del Mar Medical Research Institute, Barcelona)
-- [Olga Egorova](https://www.linkedin.com/in/olga-egorova-1123554b/?originalSubdomain=uk) (Postdoc, now KCL)
-- [Sam Jackson](https://www.southampton.ac.uk/maths/about/staff/sej1a18.page) (Postdoc, now Durham University)
-- [Stephen Gow](https://www.southampton.ac.uk/chemistry/about/staff/srg1f20.page) (PhD, now KTP Associate)
+- [Olga Egorova](https://www.linkedin.com/in/olga-egorova-1123554b/?originalSubdomain=uk) (Postdoc, now UCL)
+- [Sam Jackson](https://www.durham.ac.uk/staff/samuel-e-jackson/) (Postdoc, now Durham University)
+- [Stephen Gow](https://www.linkedin.com/in/stephen-gow-50a176196/?originalSubdomain=uk) (PhD, now Southampton)
 - [Mia Tackney](https://www.mrc-bsu.cam.ac.uk/people/in-alphabetical-order/t-to-z/mia-tackney/) (PhD, now MRC Biostatistics Unit, Cambridge)
 - [Yiolanda Englezou](http://www.kios.ucy.ac.cy/index.php/people/research-personnel.html?id=494) (PhD, now University of Cyprus)
 - [Ketil Tvermosegaard](https://www.linkedin.com/in/kbtvermosegaard/) (PhD, now Novo Nordisk)
-- [Phil Adler](http://dler.me.uk) (PhD, now Python developer)
+- [Phil Adler](http://dler.me.uk) (PhD, now Virgin Media O2)
 - Emily Matthews (Postdoc and PhD)
 - [Maria Adamou](https://www.linkedin.com/in/maria-adamou-88363982/?originalSubdomain=uk) (Postdoc and PhD, now Data Scientist at IRi)
 - [Verity Sutton-Fisher](https://www.linkedin.com/in/verity-sutton-fisher-0507aa71/?originalSubdomain=uk) (Postdoc and PhD, now GlaxoSmithKline)
