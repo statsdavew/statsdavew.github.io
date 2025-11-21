@@ -15,7 +15,7 @@ header:
 
 {% assign sorted = (site.publications | sort: 'year') | reverse %}
 
-
+<!-->
 <h2>Working papers</h2>
 
 <ul>
@@ -51,7 +51,7 @@ header:
 </ul>	
 
 <h2>Publications</h2>
-
+-->
  <ul>
 {% for publication in sorted %}
 	{% unless publication.type == 'Misc' %}
