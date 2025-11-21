@@ -50,9 +50,9 @@ header:
 {% endfor %}
 </ul>	
 
-<h2>Publications</h2>
-
 -->
+
+<h2>Publications</h2>
 
  <ul>
 {% for publication in sorted %}
