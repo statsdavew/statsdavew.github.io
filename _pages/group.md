@@ -15,11 +15,13 @@ header:
 <!--
 
 ## Postdoctoral researchers
-
+-->
 
 
 ## PhD students
--->
+
+ - Kathir Saravanan (Uncertainty quantification in healthcare)
+ - Gabriella Low Chew Tung (Uncertainty quantification in earth science)
 
 
 ## Former group members
