@@ -26,8 +26,8 @@ header:
 
 ## Former group members
 
-- [Ziyan Wang](https://www.linkedin.com/in/ziyan-wang-2504131b0/?originalSubdomain=uk) (PhD, now Royal Marsden)
-- [Daria Semochkina](https://www.linkedin.com/in/daria-semochkina-46b76b7a/?originalSubdomain=ie) (Postdoc)
+- [Ziyan Wang](https://www.linkedin.com/in/ziyan-wang-2504131b0/?originalSubdomain=uk) (PhD, now Astellas)
+- [Daria Semochkina](https://www.linkedin.com/in/daria-semochkina-46b76b7a/?originalSubdomain=ie) (Postdoc, now World Pop, University of Southampton)
 - [Theodora Nearchou](https://www.linkedin.com/in/theodora-nearchou-182120237/?originalSubdomain=cy) (PhD, now University of Cypruss)
 - [Damianos Michaelides](https://www.linkedin.com/in/damianos-michaelides-384a60135/?originalSubdomain=uk) (PhD, now Cyprus Institute of Neurology and Genetics)
 - Susana Conde (Postdoc, now Hospital del Mar Medical Research Institute, Barcelona)
