@@ -12,7 +12,7 @@ header:
  image_description: "Word cloud from my Fellowship application" 
 ---
 
-## Current projects
+<!-- ## Current projects -->
 <!--- Oct 2019 - Sep 2022 [Wellcome Trust](https://wellcome.ac.uk): Design, modelling and analysis for longitudinal population studies involving high-dimensional molecular measurements (co-investigator; &#163;189,651)-->
 
 
