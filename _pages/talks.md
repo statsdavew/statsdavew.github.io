@@ -12,7 +12,7 @@ header:
  image_description: "Word cloud from my Fellowship application"  
 ---
 
-## Invited presentations and seminars (since 2018)
+## Invited presentations and seminars (since 2016)
 - 18 April 2024: Emulation of computer simulators with uncertain inputs. University of Cardiff, UK.
 - 16 December 2023: Emulation of computer simulators with uncertain inputs. CMStats, Berlin, Germany.
 - 7 March 2023: Bayesian optimal design of experiments motivated by challenges from science and technology. MRC Biostatistics Unit, Cambridge, UK.
@@ -35,7 +35,6 @@ header:
 - 16 March 2018: Bayesian design of experiments using approximate coordinate exchange. Research seminar, University of Antwerp, Belgium.
 - 2 March 2018: Closed-loop automatic experimentation for Bayesian optimisation. Research seminar, Universidad Carlos III de Madrid, Spain.
 - 25 January 2018: Bayesian design of experiments using approximate coordinate exchange. Research seminar, Cambridge Biostatistics Unit, UK.
-<!-->
 - 18 December 2017: Bayesian optimal design of experiments: review, challenges and examples. CMStats. London, UK.
 - 16 November 2017: Bayesian design of experiments using approximate coordinate exchange. Research seminar, National Sun Yat-sen University, Kaohsiung, Taiwan.
 - 11 October 2017: Bayesian design of experiments using approximate coordinate exchange. Research seminar, UCLA, Los Angeles, USA.
@@ -46,12 +45,11 @@ header:
 - 18 May 2017: Closed-loop automatic experimentation for Bayesian optimisation. Spring Research Conference, Rutgers University, New Brunswick, USA.
 - 14 March 2017: Bayesian optimal design for physical models derived from ordinary differential equations. Workshop on Optimal Experimental Design and Inverse Problems, Alan Turing Institute, London, UK.
 - 3 March 2017: Challenges in computing Bayesian designs for complex models. SIAM Computational Science and Engineering, Atlanta, USA.
--->
-<!--
 - 17 December 2016: Closed-loop automatic experimentation for Bayesian optimisation. Conference on Experimental Design and Analysis, Taipei, Tawian.
 - 12 September 2016: Bayesian design of experiments via Gaussian process emulation (with application to discrete responses). ENBIS, Sheffield, UK.
 - 1 August 2016: Bayesian optimal design for physical models derived from ordinary differential equations. Joint Statistical Meetings, Chicago, USA.
-- 8 March 2016: Bayesian design of experiments for industrial and scientific applications via Gaussian processes. Stu Hunter Conference, Waterloo, Canada. (References)
+- 8 March 2016: Bayesian design of experiments for industrial and scientific applications via Gaussian processes. Stu Hunter Conference, Waterloo, Canada.
+<!--
 - 10 December 2015: Computation for Bayesian optimal design of experiments with a pharmaceutical case study. Bayesian Optimal Design of Experiments, Brisbane, Australia.
 - 24 September 2015: Model-robust automatic experimentation for optimisation. 8th International Workshop on Simulation, Vienna, Austria.
 - 27 July 2015: Emulation of multivariate simulators using thin plate splines with application to atmospheric dispersion. ISI World Statistics Congress, Rio de Janeiro, Brazil.
