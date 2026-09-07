@@ -17,6 +17,9 @@ header:
 ## Postdoctoral researchers
 -->
 
+## Research assistants
+
+ - Yi-Hua Liao (visiting from Academia Sinica, Taiwan; factorial screening experiments)
 
 ## PhD students
 
