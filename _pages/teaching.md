@@ -14,9 +14,8 @@ header:
 
 ## Teaching
 
-In 2025/26, I am teaching
+In 2026/27, I am teaching
 
-- MATH6192 Computationally Intensive Statistical Methods (MSc)
 - MATH6168 Machine Learning (MSc)
 
 Course materials for enrolled students can be found on [Blackboard](https://blackboard.soton.ac.uk).
