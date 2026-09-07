@@ -49,6 +49,7 @@ header:
 - 12 September 2016: Bayesian design of experiments via Gaussian process emulation (with application to discrete responses). ENBIS, Sheffield, UK.
 - 1 August 2016: Bayesian optimal design for physical models derived from ordinary differential equations. Joint Statistical Meetings, Chicago, USA.
 - 8 March 2016: Bayesian design of experiments for industrial and scientific applications via Gaussian processes. Stu Hunter Conference, Waterloo, Canada.
+
 <!--
 - 10 December 2015: Computation for Bayesian optimal design of experiments with a pharmaceutical case study. Bayesian Optimal Design of Experiments, Brisbane, Australia.
 - 24 September 2015: Model-robust automatic experimentation for optimisation. 8th International Workshop on Simulation, Vienna, Austria.
